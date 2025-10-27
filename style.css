@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    font-family: "Shadows Into Light", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    font-family: "Shadows Into Light", cursive;
+}
