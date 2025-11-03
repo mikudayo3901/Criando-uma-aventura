@@ -14,3 +14,12 @@ button{
     color: rgb(255, 0, 0);
     font-family: "Shadows Into Light", cursive;
 }
+
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
